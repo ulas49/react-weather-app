@@ -7,6 +7,7 @@ function Forecast({title,weather}) {
     <div>
         <div className='flex items-center justify-start  mt-6 '>
             <p className='text-white uppercase font-medium'>{title} </p>
+           
         </div>
         <hr className='my-2'/>
         <div className="flex items-center justify-between text-white">
